@@ -6,9 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -37,17 +34,48 @@ once logged in  with your username and password you will enter the os main hub
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lVT7jHD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From here im going to add a new role called supreme admin allowing this person to create or delete tickets then im going to  make a new department called sys admin
+then ill make a new team called level II support.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/C1Xxiec.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After my departments and team have been made ill make a practice help desk agents john and jane doe to check and solve tickets.
 </p>
 <br />
+
+
+
+
+<img src="https://i.imgur.com/tbBqvXX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
+
+ Once my help desk agents are made i will make some practice customers Karen and Ken  with issues that need solving.
+ 
+ 
+ 
+ 
+ <img src="https://i.imgur.com/yPHt4Th.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+ 
+ 
+ 
+ Once my practice team have been made, i will make some new SLA called SEV A SEV B SEV C OR THE SERVICE LEVEL AGREEMENT which mean how long the ticket is open to be solve.
+ 
+ 
+ 
+ 
+  <img src="https://i.imgur.com/fRSRJi0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  
+  
+  
+  After SLA has been made i wil make some help topics such as Personal Computer Issues or Equipment Request. Topics help cateorize the issue they are having
